@@ -7,6 +7,8 @@ A social media application like facebook or twitter. Users can register in the s
 * I use Firebase Cloud Storage to store the images (https://firebase.google.com/docs/storage). 
 * Firebase Cloud Messaging is configured to send messages to users (https://firebase.google.com/docs/cloud-messaging).
 
+If the application doesn't work I may have already deleted the project from firebase.
+
 ## Features:
 * Creat profile (set email, set password,set profile image from the device)
 * Display posts
